@@ -25,6 +25,8 @@ public class SampleJDBC
 			
 			System.out.println(username+" "+pw);
 			System.out.println("Enough");
+			
+			System.out.println("Testing");
 		}		
 		
 	}
