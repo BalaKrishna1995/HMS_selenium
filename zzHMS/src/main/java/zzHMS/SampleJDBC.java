@@ -24,6 +24,7 @@ public class SampleJDBC
 			String pw = result.getString("PSW");
 			
 			System.out.println(username+" "+pw);
+			System.out.println("Enough");
 		}		
 		
 	}
